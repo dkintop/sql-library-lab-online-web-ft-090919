@@ -26,7 +26,7 @@ series_id INTEGER
 
 CREATE characters(
 id INTEGER PRIMARY KEY,
-name TEXT,
+name TEXT
 
 );
 
