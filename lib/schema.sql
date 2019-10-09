@@ -2,5 +2,5 @@
 
 CREATE TABLE series (
 id INTEGER PRIMARY KEY,
-authour_id INTEGER,
+author_id INTEGER,
 title TEXT);
