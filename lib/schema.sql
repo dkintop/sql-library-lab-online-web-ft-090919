@@ -34,7 +34,7 @@ author_id INTEGER
 );
 
 CREATE TABLE character_books(
-id INTEGER PRIMARY KEY
-character_id INTEGER FOREIGN KEY
+id INTEGER PRIMARY KEY,
+character_id INTEGER FOREIGN KEY,
 book_id INTEGER FOREIGN KEY);
 
